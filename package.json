@@ -1,0 +1,12 @@
+{
+  "name": "music-uploader-vercel",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.43.1",
+    "multiparty": "^4.2.3"
+  }
+}
