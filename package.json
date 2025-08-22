@@ -1,5 +1,5 @@
 {
-  "name": "music-uploader-vercel",
+  "name": "jcplug_site",
   "version": "1.0.0",
   "scripts": {
     "dev": "vercel dev",
